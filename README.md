@@ -1,4 +1,4 @@
-# Welcome to Justin Crippen's Git Hub.
+# Welcome to Justin Crippen's GitHub.
 Grab a cold one, and make your self at home!
 
 Currently enrolled in Nashville Software Schools Full Stack Web Developer.
